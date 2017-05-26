@@ -1,0 +1,16 @@
+{
+  "name": "webpack-foundation-project",
+  "version": "1.0.0",
+  "description": "webpack 2, foundation 6, front-end",
+  "main": "webpack.config.js",
+  "scripts": {
+    "start": "nodemon --watch ./source --ext html ./serve/server.dev.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack2",
+    "foundation5"
+  ],
+  "author": "Abay (abai666@gmail.com)",
+  "license": "MIT"
+}
